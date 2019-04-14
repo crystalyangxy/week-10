@@ -1,43 +1,33 @@
-
 # Your Project Title Here
 
 One-sentence summary of your project goes here; then fill out each of the following sections.
 
 ## Summary
 
-A paragraph or two describing what you are building for your final project.
 
-Include a discussion of how it will be interactive or responsive to the environment.
+Using css to create a web page. And add some javascript to add some animation and interaction on the web.
 
 ## Component Parts
 
-Describe the components, or pieces, that make up your project.
 
 Include what types of inputs/outputs/data it will use. You can also upload an image with a diagram showing how all those pieces are connected.
+I will use javascript and css in html file.
 
 ## When your project is completed, you will then add the following sections:
 
-## Timeline
-
+@@ -21,14 +16,15 @@ Include what types of inputs/outputs/data it will use. You can also upload an im
 What did you do in each of the past four weeks?
 
 - Week 0: Write Proposal
-- Week 1:
-- Week 2:
-- Week 3:
+- Week 1: sketch all the pages / start coding
+- Week 2: continue working on coding (finish 75%)
+- Week 3: continue working on coding 
 - Week 4: Present!
 
 ## Challenges
 
-A brief discussion of what was hard, challenging, or unexpected about your project.
+As I have not start to sketch the detail information of each page. 
+I have no idea what kind of coding problem will occur. And I think it will have many unknow challenges about coding java and css.
 
 ## Completed Work
-
-Upload photos and videos of your completed final project!
-
-Also upload the code that makes up your project to your repository.
-
-## References and links
-
-Tutorials, comments, videos, magazine articles - anything you found that helps you understand your project.
 
